@@ -1,8 +1,10 @@
+<img src="./img/BG-2.jpeg" height="250px" width="100%" style="object-fit: cover;">
+
 <h2 align="center"><strong> Hola, me llamo Jorge Islas</strong></h2>
 
 Si tú eres alguien que quiere transformar su conocimiento de lógica, matemáticas y programación en soluciones a problemas reales, estás en el lugar correcto. Aquí podrás encontrar repositorios de archivos y código para **prototipos de soluciones** a problemas reales, **demos y tutoriales** del uso de software, herramientas y librerías, y **proyectos** que te podrán ser de ayuda o de interés.
 
-**Herramientas, software y lenguajes**
+<h3><img src="./img/icono-i.png" width="15px"><b> Herramientas, software y lenguajes</b></h3>
 
 ![Static Badge](https://img.shields.io/badge/-Python-%23161d2c?style=for-the-badge&logo=python&logoColor=%23fbfbfb&label=%20&labelColor=%23306998&color=%230c0c0c)
 ![Static Badge](https://img.shields.io/badge/-Jupyter-%23161d2c?style=for-the-badge&logo=jupyter&logoColor=%23fbfbfb&label=%20&labelColor=%23ff6d00&color=%230c0c0c)
@@ -21,3 +23,17 @@ Si tú eres alguien que quiere transformar su conocimiento de lógica, matemáti
 ![Static Badge](https://img.shields.io/badge/-OpenCV-%23161d2c?style=for-the-badge&logo=opencv&logoColor=%23fbfbfb&label=%20&labelColor=%235C3EE8&color=%230c0c0c)
 ![Static Badge](https://img.shields.io/badge/-Scikit%20Learn-%23161d2c?style=for-the-badge&logo=scikit-learn&logoColor=%23fbfbfb&label=%20&labelColor=%23F7931E&color=%230c0c0c)
 
+<h3><img src="./img/icono-i.png" width="15px"><b> Repositorios destacados</b></h3>
+
+| Nombre | Descripción | Softwares, lenguajes y herramientas |
+| --- | --- | --- |
+
+
+<br>
+
+<h3><img src="./img/icono-i.png" width="15px"><b> Redes Sociales</b></h3>
+
+![Static Badge](https://img.shields.io/badge/-YouTube-%23161d2c?style=for-the-badge&logo=youtube&logoColor=%23fbfbfb&label=%20&labelColor=%23FF0000&color=%230c0c0c&link=https%3A%2F%2Fwww.youtube.com%2F%40JorgeIslas2024)
+![Static Badge](https://img.shields.io/badge/-Instagram-%23161d2c?style=for-the-badge&logo=instagram&logoColor=%23fbfbfb&label=%20&labelColor=%23E4405F&color=%230c0c0c&link=https%3A%2F%2Fwww.youtube.com%2F%40JorgeIslas2024)
+![Static Badge](https://img.shields.io/badge/-Sitio%20web-%23161d2c?style=for-the-badge&logo=wordpress&logoColor=%23fbfbfb&label=%20&labelColor=%2321759B&color=%230c0c0c&link=https%3A%2F%2Fjorgeislas.com%2F)
+![Static Badge](https://img.shields.io/badge/-Tik%20Tok-%23161d2c?style=for-the-badge&logo=tiktok&logoColor=%23fbfbfb&label=%20&labelColor=%23000000&color=%230c0c0c&link=https%3A%2F%2Fjorgeislas.com%2F)
