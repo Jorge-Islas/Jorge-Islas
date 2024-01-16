@@ -33,7 +33,7 @@ Si tú eres alguien que quiere transformar su conocimiento de lógica, matemáti
 
 <h3><img src="./img/icono-i.png" width="15px"><b> Redes Sociales</b></h3>
 
-![Static Badge](https://img.shields.io/badge/-YouTube-%23161d2c?style=for-the-badge&logo=youtube&logoColor=%23fbfbfb&label=%20&labelColor=%23FF0000&color=%230c0c0c&link=https%3A%2F%2Fwww.youtube.com%2F%40JorgeIslas2024)
-![Static Badge](https://img.shields.io/badge/-Instagram-%23161d2c?style=for-the-badge&logo=instagram&logoColor=%23fbfbfb&label=%20&labelColor=%23E4405F&color=%230c0c0c&link=https%3A%2F%2Fwww.youtube.com%2F%40JorgeIslas2024)
-![Static Badge](https://img.shields.io/badge/-Sitio%20web-%23161d2c?style=for-the-badge&logo=wordpress&logoColor=%23fbfbfb&label=%20&labelColor=%2321759B&color=%230c0c0c&link=https%3A%2F%2Fjorgeislas.com%2F)
-![Static Badge](https://img.shields.io/badge/-Tik%20Tok-%23161d2c?style=for-the-badge&logo=tiktok&logoColor=%23fbfbfb&label=%20&labelColor=%23000000&color=%230c0c0c&link=https%3A%2F%2Fjorgeislas.com%2F)
+[![Static Badge](https://img.shields.io/badge/-YouTube-%23161d2c?style=for-the-badge&logo=youtube&logoColor=%23fbfbfb&label=%20&labelColor=%23FF0000&color=%230c0c0c&)](https://www.youtube.com/@JorgeIslas2024)
+[![Static Badge](https://img.shields.io/badge/-Instagram-%23161d2c?style=for-the-badge&logo=instagram&logoColor=%23fbfbfb&label=%20&labelColor=%23E4405F&color=%230c0c0c)](https://www.youtube.com/@JorgeIslas2024)
+[![Static Badge](https://img.shields.io/badge/-Sitio%20web-%23161d2c?style=for-the-badge&logo=wordpress&logoColor=%23fbfbfb&label=%20&labelColor=%2321759B&color=%230c0c0c)](https://www.jorgeislas.com)
+[![Static Badge](https://img.shields.io/badge/-Tik%20Tok-%23161d2c?style=for-the-badge&logo=tiktok&logoColor=%23fbfbfb&label=%20&labelColor=%23000000&color=%230c0c0c)](https://www.youtube.com/@JorgeIslas2024)
