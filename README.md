@@ -27,6 +27,7 @@ Si tú eres alguien que quiere transformar su conocimiento de lógica, matemáti
 
 | Nombre | Descripción | Softwares, lenguajes y herramientas |
 | --- | --- | --- |
+| [Conda-tutorial-basico](https://github.com/Jorge-Islas/Conda-tutorial-basico) | Tutorial básico de conda que abarca la diferencia entre Anaconda y Miniconda, cómo verificar una instalación correcta, cómo crear entornos de conda, cómo instalar paquetes y más. | ![Static Badge](https://img.shields.io/badge/-Anaconda-%23161d2c?style=for-the-badge&logo=Anaconda&logoColor=%23fbfbfb&label=%20&labelColor=%233AAE2A&color=%230c0c0c) |
 
 
 <br>
