@@ -1,5 +1,3 @@
-<img src="./img/BG-2.jpeg" height="250px" width="100%" style="object-fit: cover;">
-
 <h2 align="center"><strong> Hola, me llamo Jorge Islas</strong></h2>
 
 Si tú eres alguien que quiere transformar su conocimiento de lógica, matemáticas y programación en soluciones a problemas reales, estás en el lugar correcto. Aquí podrás encontrar repositorios de archivos y código para **prototipos de soluciones** a problemas reales, **demos y tutoriales** del uso de software, herramientas y librerías, y **proyectos** que te podrán ser de ayuda o de interés.
